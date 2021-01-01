@@ -4,3 +4,11 @@ Template: Main style file
 
 /* Bootstrap file instead of linking in index.html */
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+/* Templates */
+@import "./include/variable";
+@import "./include/header";

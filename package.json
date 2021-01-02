@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/hongtri11/See2App/issues"
   },
-  "homepage": "https://github.com/hongtri11/See2App#readme",
+  "homepage": "https://github.com/hongtri11/See2App",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "bootstrap": "^4.5.3",

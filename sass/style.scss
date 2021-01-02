@@ -10,7 +10,7 @@ Template: Main style file
 
 
 /* Templates */
-@import "include/banner";
-@import "include/global";
-@import "include/header";
-@import "include/banner";
+@import "include/_banner.scss";
+@import "include/_global.scss";
+@import "include/_header.scss";
+@import "include/_variable.scss";
